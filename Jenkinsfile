@@ -18,6 +18,8 @@ pipeline{
          npm run build
          ls -ltr
          '''
+             cd build/
+              ls -ltr
            }
       
          }
